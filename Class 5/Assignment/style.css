@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+
+    background-color: #1C3180;
+    padding: 80px 0px;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFF;
+    border-style: solid;
+    border-width: 0px 0px 4px 0px;
+    border-color:#FE630E ;
+}
+.section1{
+
+    padding-top: 50px;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.main-heading {
+    padding-left: 16%;
+    padding-top: 50px;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    
+}
+
+.hero_section {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.section1 p{
+
+font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+
+padding-left: 16%;
+
+}
+
+.section2{
+    
+    margin-top: 50px;
+    background-color: #1C3180;
+    padding-top: 50px;
+    padding-bottom: 20PX; ;
+    
+}
+
+.dev3{
+
+    width: 100%;
+    
+
+}
+
+.hfuad{
+
+    padding-left: 16%;
+    color: #FE630E;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.hfayan{
+
+    
+   
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    width: 968px;
+    padding-left: 16%;
+
+
+}
+
+.button1{
+    margin-top: 20px;
+    margin-left: 16%;
+    background-color: #FE630E;
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    
+}
+
+
+.button2{
+    margin-left: 5px;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    color: #1C3180;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    
+}
+

@@ -1,0 +1,207 @@
+
+.btn {
+
+    background-color: #FD5527;
+    padding: 15px 15px 15px 15px ;
+    color: black;
+    font-family: syne;
+    
+}
+
+.hero{
+    padding-top: 100px;
+    font-size: 60px;
+    color: white;
+    font-family: syne;
+    
+}
+ 
+.section1{
+
+    background-color: black;
+    height: 500px;
+    padding-left: 20px;
+    font-family: syne;
+    
+}
+
+.main{
+
+ float: left;
+
+}
+
+.nav{
+
+    text-align: center;
+    padding-top: 25px;
+    
+}
+
+.section2{
+
+    float: left;
+    margin-right: 300px;
+    font-family: snye;
+    
+    
+}
+ 
+
+.fayan{
+
+    padding-top: 100px;
+    padding-left: 20px;
+    font-size: 42px;
+    
+}
+
+.hasan{
+
+    padding-left: 20px;
+    font-family: syne;
+}
+
+.btn1{
+
+    margin-left: 20px;
+    background-color: #FD5527;
+    padding: 15px 15px 15px 15px ;
+    font-family: syne;
+    color: black;
+
+    
+}
+
+.img60{
+
+    float: left;
+}
+
+.img70{
+
+    float: left;
+}
+
+.img80{
+
+    float: right;
+
+}
+
+.top{
+
+    padding-top: 100px;
+}
+
+.img90{
+    float: left;
+}
+
+.img100{
+
+    float: left;
+
+}
+
+
+.flot{
+
+    padding-left: 20px;
+    font-family: syne;
+    font-size: 50px;
+}
+
+.page{
+
+    padding-left: 20px;
+    font-family: syne;
+    font-size: 20px;
+    float: left;
+    padding-right: 300px;
+
+    width: 500px;
+    
+    
+}
+
+.page1{
+
+    float: left;
+    width: 500px;
+    
+    
+}
+
+
+.section5{
+
+    float: left;
+}
+
+.fuadhasan{
+
+    float: left;
+}
+
+.col{
+
+    padding-top: 100px;
+    align-items: center;
+}
+
+.secton13{
+
+    
+background-color: black;
+min-height: 300px;
+
+}
+
+
+.size{
+
+    font-size: 60px;
+    color: white;
+    padding-top: 50px;
+
+}
+
+.item{
+
+    color: white;
+    text-align: right;
+    padding-bottom: 50px;
+
+}
+
+
+.sizeim{
+
+
+    font-size: 44px;
+
+}
+
+.flow{
+
+    
+    float: left;
+    padding-right: 600px;
+}
+
+
+
+hr.solid {
+    
+    border-top: 1px 0px 0px 0px solid black;
+    padding-top: 100px;
+
+
+}
+
+.textareforsave{
+    
+    padding-top: 50px;
+    text-align: center;
+}
